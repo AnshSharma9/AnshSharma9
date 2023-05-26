@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnshSharma9
+- 👋 Hi, I’m Ansh Sharma
 - 👀 Always on Curiosity Voyage
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on web dev and many diff projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me- @ansh09sharma04@gmail.com
 
 <!---
